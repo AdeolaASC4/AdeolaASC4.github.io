@@ -1,0 +1,43 @@
+body{
+    background-image: url("alex-jodoin-246078.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+h1{
+    text-align: center;
+}
+
+#backgrounPic{
+    width: 100%;
+    height: 100%;
+}
+
+img{
+    max-width: 50%;
+}
+
+i{
+    color: #fff;
+    text-align: center;
+}
+
+.container-fluid{
+    color: #fff;
+}
+
+a:link{
+    color:#fff;
+    background-color: none;
+}
+
+a:visited{
+    color: #fff;
+    background-color: none;
+}
+
+a:hover{
+    color: #337ab7;
+
+}
