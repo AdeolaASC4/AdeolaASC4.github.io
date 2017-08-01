@@ -18,14 +18,13 @@ img{
     max-width: 50%;
 }
 
-i{
-    color: #fff;
+ .col-md-3{
     text-align: center;
-}
+} 
 
-.container-fluid{
+ .container-fluid{
     color: #fff;
-}
+} 
 
 a:link{
     color:#fff;
