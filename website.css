@@ -1,12 +1,15 @@
 body{
-    background-image: url("alex-jodoin-246078.jpg");
-    background-size: 100%;
-    background-repeat: no-repeat;
-    color: #fff;
+    background-image: url("alex-jodoin-246078-min.jpg");
+    background-size:cover;
+    background-repeat: no-repeat; 
+    padding: 40px;
 }
 
 h1{
     text-align: center;
+    text-decoration: underline #fff;
+    color: #337ab7
+
 }
 
 #backgrounPic{
@@ -40,3 +43,4 @@ a:hover{
     color: #337ab7;
 
 }
+
