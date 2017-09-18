@@ -17,7 +17,7 @@ h1{
 h2{
     text-align: center;
     color:#00b3b3;
-    padding-top: 150%;
+    /* padding-top: 150%; */
 }
 
 h3{
@@ -50,3 +50,17 @@ a:visited{
     background-color: none;
 }
 
+#js{
+    Width: 150px;
+    height: 208px;
+}
+
+#css{
+    Width: 150px;
+    height: 200px;
+}
+
+#html{
+    Width: 200px;
+    height: 200px;
+}
